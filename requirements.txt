@@ -1,0 +1,7 @@
+aiohttp
+pandas
+numpy
+matplotlib
+mpi4py      # requiere OpenMPI/MPICH instalado en el sistema
+numba       # + numba-cuda y una GPU NVIDIA para los kernels CUDA
+cupy-cuda12x  # opcional (ya viene en Colab con GPU)
